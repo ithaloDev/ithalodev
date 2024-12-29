@@ -3,7 +3,7 @@
 Ola! Eu sou o Ithalo Antunes sou desenvolvedor iniciante que esta começando entra no mundo programaçao sou apaixonado pela programaçao sou de sao gonçalo tenho 16 anos.
 
 <p align="left">
-    <a href="https://github.com/ithaloDev">
+    <a href="https://github.com/ithaloDev?tab=repositories">
         <img 
             alt="My Respos" 
             title="Meu repositorio" 
