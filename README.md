@@ -76,4 +76,6 @@ Gosto de mergulhar em animes e videogames, além de passar tempo com amigos. Pro
 
 ---
 
+<br />
+
 Sinta-se à vontade para explorar meus projetos ou entrar em contato!
