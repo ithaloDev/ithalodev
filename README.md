@@ -2,7 +2,8 @@
 
 ## 😀 About Me
 
-Sou Ithalo Antunes, um desenvolvedor web iniciante de São Gonçalo, com 16 anos. 
+Oi, eu sou Ithalo Antunes, um iniciante em software developer, comecei a programar em 2025. 
+Gosto de mergulhar em animes e videogames, além de passar tempo com amigos. Programar é uma paixão; acho fascinante e agradável. 
 
 ### 💻 Experiência em Projetos
 
@@ -23,9 +24,6 @@ Desenvolvi projetos utilizando React, Node.js e Tailwind CSS. Estou sempre curio
 - **Version Control:**
   - Git
 
-### 🎮 Interesses Pessoais
-
-Gosto de mergulhar em animes e videogames, além de passar tempo com amigos. Programar é uma paixão; acho fascinante e agradável.
 
 <p align="left">
     <a href="https://github.com/ithaloDev?tab=repositories">
@@ -77,5 +75,3 @@ Gosto de mergulhar em animes e videogames, além de passar tempo com amigos. Pro
 ---
 
 <br />
-
-Sinta-se à vontade para explorar meus projetos ou entrar em contato!
