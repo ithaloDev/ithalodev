@@ -67,9 +67,9 @@ Desenvolvi projetos utilizando React, Node.js e Tailwind CSS. Estou sempre curio
 ### 📊 Stats
 
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=ithaloDev&show_icons=true&theme=radical&include_all_commits=true&locale=en" />
+  <img align="left" alt="GitHub Stats" height="150" style="padding-right: 5px;" src="https://github-readme-stats.vercel.app/api?username=ithaloDev&show_icons=true&theme=radical&include_all_commits=true&locale=en" />
   
-  <img align="left" alt="Top Languages on GitHub" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithaloDev&theme=radical&layout=compact&langs_count=9" />
+  <img align="left" alt="Top Languages on GitHub"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithaloDev&theme=radical&layout=compact&langs_count=9" />
 </p>
 
 ---
