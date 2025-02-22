@@ -2,28 +2,22 @@
 
 ## 😀 About Me
 
-Oi, eu sou Ithalo Antunes, um iniciante em software developer, comecei a programar em 2025. 
-Gosto de mergulhar em animes e videogames, além de passar tempo com amigos. Programar é uma paixão; acho fascinante e agradável. 
+Oi, eu sou Ithalo Antunes, um iniciante na area, comecei a programar em 2025, estou focado no desenvolvimento **backend**
 
-### 💻 Experiência em Projetos
+Sou um entusiasta da programação que começou a estudar em 2025 e rapidamente me apaixonei pela área! Atualmente, estou focado no desenvolvimento **backend** e sempre buscando aprender mais.
 
-Desenvolvi projetos utilizando React, Node.js e Tailwind CSS. Estou sempre curioso para entender como funciona o mundo da programação e busco novas ideias e tecnologias inovadoras a cada dia.
+### 💻 Projetos principais
+- **Cadastro de Usuário com JWT** 🔑
+- **To-Do List** 📝
+- **Sistema de Reservas** 🏨
 
-### 🛠 Technical Skills
+### 🛠️ Tecnologias que estou aprendendo
+- **Linguagem:** JavaScript
+- **Frameworks e ferramentas:** Express, TypeScript, Fastify
+- **Área de atuação:** Backend
 
-- **Languages:**
-  - HTML
-  - CSS
-  - JavaScript
-
-- **Frameworks and Libraries:**
-  - React
-  - Node.js
-  - Tailwind CSS
-
-- **Version Control:**
-  - Git
-
+- ### 🎮 Interesses
+Além da programação, também curto **jogos**, **animes** e **ler** 📚, além de passar tempo com amigos.
 
 <p align="left">
     <a href="https://github.com/ithaloDev?tab=repositories">
@@ -56,10 +50,8 @@ Desenvolvi projetos utilizando React, Node.js e Tailwind CSS. Estou sempre curio
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
 <br/>
 <br/>
