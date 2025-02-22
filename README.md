@@ -2,9 +2,7 @@
 
 ## 😀 About Me
 
-Oi, eu sou Ithalo Antunes, um iniciante na area, comecei a programar em 2025, estou focado no desenvolvimento **backend**
-
-Sou um entusiasta da programação que começou a estudar em 2025 e rapidamente me apaixonei pela área! Atualmente, estou focado no desenvolvimento **backend** e sempre buscando aprender mais.
+Oi, eu sou Ithalo Antunes, um iniciante na area, comecei a programar em 2025 e rapidamente me apaixonei pela área!, estou focado no desenvolvimento **backend** e sempre buscando aprender mais.
 
 ### 💻 Projetos principais
 - **Cadastro de Usuário com JWT** 🔑
